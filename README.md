@@ -5,3 +5,7 @@ Welcome
 ## Subheader
 
 Watching youtube
+
+## Local Developent
+
+1. Open index.html in your browser
